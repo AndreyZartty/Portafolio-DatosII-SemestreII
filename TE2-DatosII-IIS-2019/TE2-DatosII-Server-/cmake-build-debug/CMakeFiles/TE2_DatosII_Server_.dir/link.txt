@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/TE2_DatosII_Server_.dir/main.cpp.o CMakeFiles/TE2_DatosII_Server_.dir/Node.cpp.o CMakeFiles/TE2_DatosII_Server_.dir/List.cpp.o CMakeFiles/TE2_DatosII_Server_.dir/ArbolBinario.cpp.o  -o TE2_DatosII_Server_ -ljson-c 

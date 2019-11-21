@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="TE2_DatosII_Server_"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/andreyzartty/Documentos/TE2-DatosII-IIS-2019/TE2-DatosII-Server-/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/andreyzartty/Documentos/TE2-DatosII-IIS-2019/TE2-DatosII-Server-/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/andreyzartty/Documentos/TE2-DatosII-IIS-2019/TE2-DatosII-Server-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/andreyzartty/Documentos/TE2-DatosII-IIS-2019/TE2-DatosII-Server-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/andreyzartty/Documentos/TE2-DatosII-IIS-2019/TE2-DatosII-Server-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/andreyzartty/Documentos/TE2-DatosII-IIS-2019/TE2-DatosII-Server-/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/andreyzartty/Documentos/TE2-DatosII-IIS-2019/TE2-DatosII-Server-/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/andreyzartty/Documentos/TE2-DatosII-IIS-2019/TE2-DatosII-Server-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/andreyzartty/Documentos/TE2-DatosII-IIS-2019/TE2-DatosII-Server-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/andreyzartty/Documentos/TE2-DatosII-IIS-2019/TE2-DatosII-Server-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TE2_DatosII_Server_">
+				<Option output="/home/andreyzartty/Documentos/TE2-DatosII-IIS-2019/TE2-DatosII-Server-/cmake-build-debug/TE2_DatosII_Server_" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/andreyzartty/Documentos/TE2-DatosII-IIS-2019/TE2-DatosII-Server-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/andreyzartty/Documentos/TE2-DatosII-IIS-2019/TE2-DatosII-Server-/cmake-build-debug/Makefile&quot;  VERBOSE=1 TE2_DatosII_Server_"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/andreyzartty/Documentos/TE2-DatosII-IIS-2019/TE2-DatosII-Server-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/andreyzartty/Documentos/TE2-DatosII-IIS-2019/TE2-DatosII-Server-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/andreyzartty/Documentos/TE2-DatosII-IIS-2019/TE2-DatosII-Server-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TE2_DatosII_Server_/fast">
+				<Option output="/home/andreyzartty/Documentos/TE2-DatosII-IIS-2019/TE2-DatosII-Server-/cmake-build-debug/TE2_DatosII_Server_" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/andreyzartty/Documentos/TE2-DatosII-IIS-2019/TE2-DatosII-Server-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/andreyzartty/Documentos/TE2-DatosII-IIS-2019/TE2-DatosII-Server-/cmake-build-debug/Makefile&quot;  VERBOSE=1 TE2_DatosII_Server_/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/andreyzartty/Documentos/TE2-DatosII-IIS-2019/TE2-DatosII-Server-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/andreyzartty/Documentos/TE2-DatosII-IIS-2019/TE2-DatosII-Server-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/andreyzartty/Documentos/TE2-DatosII-IIS-2019/TE2-DatosII-Server-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/andreyzartty/Documentos/TE2-DatosII-IIS-2019/TE2-DatosII-Server-/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/andreyzartty/Documentos/TE2-DatosII-IIS-2019/TE2-DatosII-Server-/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/andreyzartty/Documentos/TE2-DatosII-IIS-2019/TE2-DatosII-Server-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/andreyzartty/Documentos/TE2-DatosII-IIS-2019/TE2-DatosII-Server-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/andreyzartty/Documentos/TE2-DatosII-IIS-2019/TE2-DatosII-Server-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/andreyzartty/Documentos/TE2-DatosII-IIS-2019/TE2-DatosII-Server-/ArbolBinario.cpp">
+			<Option target="TE2_DatosII_Server_"/>
+		</Unit>
+		<Unit filename="/home/andreyzartty/Documentos/TE2-DatosII-IIS-2019/TE2-DatosII-Server-/ArbolBinario.h">
+			<Option target="TE2_DatosII_Server_"/>
+		</Unit>
+		<Unit filename="/home/andreyzartty/Documentos/TE2-DatosII-IIS-2019/TE2-DatosII-Server-/List.cpp">
+			<Option target="TE2_DatosII_Server_"/>
+		</Unit>
+		<Unit filename="/home/andreyzartty/Documentos/TE2-DatosII-IIS-2019/TE2-DatosII-Server-/List.h">
+			<Option target="TE2_DatosII_Server_"/>
+		</Unit>
+		<Unit filename="/home/andreyzartty/Documentos/TE2-DatosII-IIS-2019/TE2-DatosII-Server-/Node.cpp">
+			<Option target="TE2_DatosII_Server_"/>
+		</Unit>
+		<Unit filename="/home/andreyzartty/Documentos/TE2-DatosII-IIS-2019/TE2-DatosII-Server-/Node.h">
+			<Option target="TE2_DatosII_Server_"/>
+		</Unit>
+		<Unit filename="/home/andreyzartty/Documentos/TE2-DatosII-IIS-2019/TE2-DatosII-Server-/main.cpp">
+			<Option target="TE2_DatosII_Server_"/>
+		</Unit>
+		<Unit filename="/home/andreyzartty/Documentos/TE2-DatosII-IIS-2019/TE2-DatosII-Server-/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
