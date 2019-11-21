@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/TE4_DatosII_IIS_2019.dir/main.cpp.o CMakeFiles/TE4_DatosII_IIS_2019.dir/Cuadricula.cpp.o CMakeFiles/TE4_DatosII_IIS_2019.dir/Node.cpp.o CMakeFiles/TE4_DatosII_IIS_2019.dir/Juego.cpp.o CMakeFiles/TE4_DatosII_IIS_2019.dir/AStar.cpp.o  -o TE4_DatosII_IIS_2019 
