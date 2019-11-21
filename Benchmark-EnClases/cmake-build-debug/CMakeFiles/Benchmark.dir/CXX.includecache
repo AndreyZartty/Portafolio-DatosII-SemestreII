@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gringo/CLionProjects/Benchmark/main.cpp
+cstdlib
+-
+ctime
+-
+iostream
+-
+vector
+-
+fstream
+-
+
